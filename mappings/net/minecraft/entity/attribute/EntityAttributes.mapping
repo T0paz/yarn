@@ -1,4 +1,15 @@
 CLASS net/minecraft/class_5134 net/minecraft/entity/attribute/EntityAttributes
+	FIELD field_23716 FLYING_SPEED Lnet/minecraft/class_1320;
+	FIELD field_23723 ATTACK_SPEED Lnet/minecraft/class_1320;
+	FIELD field_23719 MOVEMENT_SPEED Lnet/minecraft/class_1320;
+	FIELD field_23724 ARMOR Lnet/minecraft/class_1320;
+	FIELD field_23716 MAX_HEALTH Lnet/minecraft/class_1320;
+	FIELD field_23718 KNOCKBACK_RESISTANCE Lnet/minecraft/class_1320;
+	FIELD field_23722 ATTACK_KNOCKBACK Lnet/minecraft/class_1320;
+	FIELD field_23726 LUCK Lnet/minecraft/class_1320;
+	FIELD field_23721 ATTACK_DAMAGE Lnet/minecraft/class_1320;
+	FIELD field_23725 ARMOR_TOUGHNESS Lnet/minecraft/class_1320;
+	FIELD field_23717 FOLLOW_RANGE Lnet/minecraft/class_1320;
 	METHOD method_26871 register (Ljava/lang/String;Lnet/minecraft/class_1320;)Lnet/minecraft/class_1320;
 		ARG 0 id
 		ARG 1 attribute
